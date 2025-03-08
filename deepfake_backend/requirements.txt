@@ -1,0 +1,8 @@
+Flask
+flask-cors
+flask-pymongo
+pymongo
+werkzeug
+fpdf2
+gunicorn
+python-dotenv
